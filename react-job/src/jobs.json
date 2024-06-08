@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "a650",
-      "title": "Test 1 add job",
-      "type": "Full-Time",
-      "location": "My City",
-      "description": "Add a first job",
-      "salary": "Over $200K",
-      "company": {
-        "name": "Ana's City",
-        "description": "My react app description test 1",
-        "contactEmail": "teste@teste.com",
-        "contactPhone": "9999999999"
-      }
     }
   ]
 }
